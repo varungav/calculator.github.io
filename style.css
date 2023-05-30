@@ -2,6 +2,10 @@
 body{
     background-color: #e3f9ff;
 }
+h1
+{
+  font-family: 'Ubuntu', sans-serif;
+}
 .calculator {
     width: 240px;
     margin: 0 auto;
